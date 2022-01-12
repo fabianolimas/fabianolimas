@@ -1,9 +1,12 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hey! Eu sou o Fabiano!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif?cid=ecf05e47mhxs1aglvkzku1ut4zikr2rb7jb9foctaresziuy&rid=giphy.gif&ct=g" width="28">
+Hey! Eu sou o Fabiano!  <img src="https://media3.giphy.com/media/CEK6VlVkjTZ5u/giphy.gif?cid=ecf05e477228fgwmrjdnps1tspo0xpg34ked2hy1xsqw35yp&rid=giphy.gif&ct=g" width="40">
 </h1>
 
-<h1 align="center"> 
+<h1 align="center">
+  <img src= "https://media4.giphy.com/media/WsJzXF8M8tl6w/giphy.gif?cid=ecf05e47s06ok0f0av4oegrmuot362tn8t5ih9dh3u72kki6&rid=giphy.gif&ct=g" width="500">
+  </h1>
+ <h1 align="center">
 [Sou Desenvolvedor Mobile] 
 <div align="center">
   </h1>
