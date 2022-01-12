@@ -8,7 +8,7 @@ Hey! Eu sou o Fabiano!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/g
 <div align="center">
   </h1>
   
-  <!--   ![image-fabiano](https://cdnb.artstation.com/p/assets/images/images/007/567/089/original/jaume-rodriguez-peralta-final-big.gif?1507030310) -->
+  <!--   ![image-nix](https://cdnb.artstation.com/p/assets/images/images/007/567/089/original/jaume-rodriguez-peralta-final-big.gif?1507030310) -->
   
   
   <a href="https://github.com/fabianolimas">
