@@ -8,9 +8,7 @@ Hey! Eu sou o Fabiano!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/g
 <div align="center">
   </h1>
   
-  <!--   ![image-nix](https://cdnb.artstation.com/p/assets/images/images/007/567/089/original/jaume-rodriguez-peralta-final-big.gif?1507030310) -->
-  
-  
+   
   <a href="https://github.com/fabianolimas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianolimas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianolimas&layout=compact&langs_count=7&theme=dark"/>
