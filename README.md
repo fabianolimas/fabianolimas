@@ -4,10 +4,9 @@ Hey! Eu sou o Fabiano!  <img src="https://media3.giphy.com/media/CEK6VlVkjTZ5u/g
 </h1>
 
 <h1 align="center">
-  <img src= "https://media4.giphy.com/media/WsJzXF8M8tl6w/giphy.gif?cid=ecf05e47s06ok0f0av4oegrmuot362tn8t5ih9dh3u72kki6&rid=giphy.gif&ct=g" width="500">
-  </h1>
+    </h1>
  <h1 align="center">
-[Sou Desenvolvedor Mobile] 
+[Desenvolvedor Front-end] 
 <div align="center">
   </h1>
   
