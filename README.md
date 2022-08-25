@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif?cid=ecf05e47mhxs1aglvkzku1ut4zikr2rb7jb9foctaresziuy&rid=giphy.gif&ct=g" width="28">
-Hey! Eu sou o Fabiano!  <img src="https://media3.giphy.com/media/CEK6VlVkjTZ5u/giphy.gif?cid=ecf05e477228fgwmrjdnps1tspo0xpg34ked2hy1xsqw35yp&rid=giphy.gif&ct=g" width="40">
+
+Hey! Eu sou o Fabiano!  
 </h1>
 
 <h1 align="center">
@@ -16,14 +16,14 @@ Hey! Eu sou o Fabiano!  <img src="https://media3.giphy.com/media/CEK6VlVkjTZ5u/g
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianolimas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Fabiano-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Fabiano-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Fabiano-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  
   <img align="center" alt="Fabiano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabiano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fabiano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Fabiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Fabiano-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Fabiano-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   </div>
   
   ##
